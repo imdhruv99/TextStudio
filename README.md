@@ -26,7 +26,7 @@
 - About = &nbsp;```F2```
 
 # ScreenShot
-<img src="screenshots/screenshot.png" width="500" height="500" title="ScreenShot">
+<img src="screenshots/screenshot.png" width="700" height="500" title="ScreenShot">
 
 # Author
 - D H R U V &nbsp; P R A J A P A T I
